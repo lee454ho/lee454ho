@@ -1,6 +1,5 @@
-### 안녕하세요 이상호입니다. 👋
-<br />
 <div align="center">
+<h3>안녕하세요 이상호입니다. 👋</h3>
 
 <!--
 **lee454ho/lee454ho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
